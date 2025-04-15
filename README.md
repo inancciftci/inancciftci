@@ -17,4 +17,4 @@ I'm a self-taught developer with a background in law — now fully immersed in b
 - Learning bleeding-edge tech (currently exploring React 19 Server Actions)
 - Creating apps that solve real problems
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/inanc-dev)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/inancciftci)  
